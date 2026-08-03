@@ -1,0 +1,10 @@
+{
+  "name": "magoco-terminal-pro",
+  "version": "4.0.0",
+  "description": "MAGoCo Terminal Pro — Professional web terminal with full shell access",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
